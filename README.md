@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 A little about me...
 My software engineer journey began when I was a teenager, spending countless hours tucked away in my way too cramped bedroom creating interactive adventure games and whatever else I could code.  This led to an official education in computer programming after serving the the US Coast Guard, and ultimately to my first job as a mainframe software engineer.  Several years later, I moved into management, where I spent most of my career... however, the itch was too strong to overcome my passion for developing software, implementing clever solutions and providing end users with an interactive, polished, and engaging experience.  Fast forward to 2023, Im currently enrolled in a software engineering bootcamp to build on my skills as a developer and people manager, with a discipline in web and full stack development focusing on JavaScript, HTML, CSS, and Python.
-
-Fun Fact:  I was the very first to develop Adventure Quest, don't let anyone else tell you differently 😎 
